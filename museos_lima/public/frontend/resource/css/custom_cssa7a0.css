@@ -1,0 +1,18 @@
+
+
+body.home .slider, body.page-id-4015 .slider, body.page-id-3625 .slider {min-height: 495px;}
+
+@media only screen and (max-width: 1060px){
+body.home .slider, body.page-id-4015 .slider, body.page-id-3625 .slider {min-height: 150px;}
+}
+
+body.home .slider div.ls-s-1 > a,
+body.page-id-3625 .slider div.ls-s-1 > a{
+-webkit-transition: all 0.2s ease 0s;
+-moz-transition: all 0.2s ease 0s;
+-o-transition: all 0.2s ease 0s;
+}
+
+body.home .slider div.ls-s-1 > a:hover, body.page-id-3625 .slider div.ls-s-1 > a:hover{padding: 0 7px;}
+
+#menu-footer_menu{margin: -4px 0 0;}

@@ -1,0 +1,57 @@
+.titulo_museo {font-size: 1.2em; color:#f54325; }
+
+/*
+Theme Name: River
+Theme URI: http://demo.qodeinteractive.com/river/
+Description: River Theme
+Tags: creative, portfolio, multi-purpose, clean, retina, responsive, wpml, parallax, background video, mega menu, blog, agency, infographics, art
+Author: Qode Interactive
+Author URI: http://www.qodeinteractive.com/
+Version: 1.0.4
+License: GNU General Public License
+License URI: licence/GPL.txt
+
+*/
+
+/*
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+1.0.4
+- Improved "viewport" metatag for non responsive sites
+- Fixed anchor logic when ajax loader is not on
+- Fixed anchor hash changing on same page
+- Fixed logic for getting logo height so it doesn't require allow_url_fopen directive to be enabled
+- Fixed a bug with latest blog shortcode regarding localization of the post dates
+- Fixed header height when side area is disabled
+- Fixed mobile menu active state
+- Fixed pagination on home.php file
+- Fixed rendering of P tags on "gallery" post format
+
+
+1.0.3
+- Added background color for mobile dropdown menu
+- Added functionality for side menu and mobile menu button color changing (takes color from first level menu, on smaller screens from mobile dropdown background color)
+- Improved mobile menu logic, now closing on menu item click
+- Fixed deliting of custom sidebars
+- Fixed steps attributes for line graph shortcode for Visual Composer
+- Fixed portfolio list for new version of Chrome
+- Fixed background color for Call to Action widget
+
+
+1.0.2
+- Added anchor functionality on parallax sections, custom links (manualy added class needed) and buttons
+- Added icon fade animation and delay attributes for icon with text shortcode
+- Added style for search widget in top header
+- Added entering animation on "centered" title type
+- Updated portfolio list shortcode to add one portfolio item per row
+- Updated smooth scroll on/off logic to choose between all devices and all without Mac devices (all devices are not including touch devices)
+- Fixed minor validation errors
+- Fixed category attribute in latest posts shortcode
+- Fixed blog responsiveness (social and like links)
+
+
+1.0.1
+- Fixed css animations (from top and bottom)
+- Fixed ajax loader color changing(first color)
+- Fixed layout for whole post blog type
+- Fixed single post layout for video type
+*/
