@@ -57,12 +57,6 @@ $db['default']['password'] = '';
 $db['default']['database'] = 'museos';
 
 
-/*
-// hosting alive.pe  
-$db['default']['username'] = 'alivepe_usryaqua';
-$db['default']['password'] = 'P@ssw0rd1234';
-$db['default']['database'] = 'alivepe_mapayaqua';
-*/
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;

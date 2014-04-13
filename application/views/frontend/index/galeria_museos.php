@@ -76,7 +76,7 @@ if($pagina){$i=$porpagina+1;}
                                                         </a>
 
 
-                                                        <a class='preview' href="<?php echo base_url()?>index/detalle_museo/<?php echo $row->id_categ."/".$pagina; ?>">
+                                                        <a class='preview' href="<?php echo base_url()?>index/detalle_museo/<?php echo $row->id."/".$pagina; ?>">
                                                                 <!-- <i class='icon-link icon-2x'></i> -->
                                                             <img class='icon-search icon-2x' src="<?php echo base_url()?>public/frontend/resource/img/enlace.png">
                                                         </a>

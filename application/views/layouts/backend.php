@@ -123,7 +123,7 @@
             	<?php echo $content_for_layout; ?>
 				<div class="row-fluid">
 					<div id="footer" class="span12">
-						2014 &copy; Yaqua. Desarrollador por Wilson zauma, Xavier Condori y Pedro Muñoz
+						2014 &copy; Yaqua. Desarrollador por <a href="http://alive.pe">Alive</a>
 					</div>
 				</div>
 			</div>

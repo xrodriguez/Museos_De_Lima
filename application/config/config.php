@@ -15,8 +15,8 @@
 |
 */
 $config['base_url']	= '';
-//$config['base_url']	= 'https://www.smartgamers.com.pe/rent/'; //ambiente real
-//$config['base_url']	= 'https://www.smartgamers.com.pe/rent_ambienteprueba/'; //ambiente pruebas
+
+
 
 /*
 |--------------------------------------------------------------------------
