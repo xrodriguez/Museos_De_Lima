@@ -1,0 +1,21 @@
+/*--------- slider ---------*/
+
+body { 	 
+	font-family: miFuente1, miFuente1, Arial, Helvetica, sans-serif ;
+	font-size:13px; 
+	line-height:18px;
+	color:#565555;
+	background: url('../images/bg-body.jpg') no-repeat fixed center top #015B73;
+	width:800px;
+	height:100%;
+        overflow: hidden
+}
+.contenedor {margin: 0 auto; width: 800px;}
+.div_mapa {margin: 0 auto; padding: 10px 50px;}
+
+.btn_busqueda{ margin: 2px; padding: 10px;background:#212121; }
+
+.btn_busqueda p, .btn_busqueda select{display:inline-block; vertical-align: top;} 
+.btn_busqueda p { width: 200px !important; margin: 0px; color: #FFFFff;}
+.btn_busqueda select{ width: 400px !important;}
+.btn_busqueda input { margin: 0px 10px;}
